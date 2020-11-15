@@ -1,6 +1,6 @@
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seorii)](https://solved.ac/seorii)
 
-![Codeforces](https://run.kaist.ac.kr/badges/codeforces/seorii.svg)
+[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/seorii.svg)](https://codeforces.com/profile/seorii)
 ### 😀안녕하세요!
 배우고 싶은것도 많고 만들고 싶은것도 많은 학생 개발자 이서현이에요.
 #### 💻저가 주로 하는건
