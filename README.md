@@ -6,7 +6,7 @@ I'm Seohyun Lee, a student like to make program!
 
 [Jungol](http://www.jungol.co.kr), Online Judge System @ [HancomAC](https://github.com/HancomAC)
 
-[HANA](https://github.com/HancomAC/HANA), Judgement system for Jungol
+[HANA](https://github.com/HancomAC/HANA), Judgement system for Jungol (is in production on Jungol!)
 
 [electron-acrylic-window](https://github.com/Seo-Rii/electron-acrylic-window), module for vibrancy support on electron framework
 
