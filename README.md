@@ -22,6 +22,29 @@ VLAB, club @ KAIST, vice chairman (2022 - )
 
 NULL, club @ IASA, vice chairman(2019 - 2020)
 
+#### 🏆 What are achievements I got?
+
+[UCPC 2022](https://ucpc.me) Qualification Round, 38th
+
+[KOI](https://koi.or.kr) 2021, Final Round, Silver Medal
+
+[KCF](https://kcf.or.kr) 2018, FInal Round, 2nd place
+
+<details>
+
+<summary>More achievements</summary>
+
+[KOI](https://koi.or.kr) 2021, Qualification Round, Silver Medal
+
+[KOI](https://koi.or.kr) 2019, Final Round, Bronze Medal
+
+[KOI](https://koi.or.kr) 2019, Qualification Round, Silver Medal
+
+[KOI](https://koi.or.kr) 2018, Final Round, Silver Medal
+
+[KOI](https://koi.or.kr) 2018, Qualification Round, Silver Medal
+</details>
+
 #### 📨 Want to contact me?
 
 studioseorii@gmail.com 
