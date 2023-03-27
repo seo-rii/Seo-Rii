@@ -12,17 +12,23 @@ I'm Seohyun Lee, a student like to make program!
 
 #### 📍 Where I am / was?
 
-[Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
+School of Computing, [Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
+
+[여기우리 Inc.](https://herewe.space), Developer (2022 - )
 
 [HancomEducation](https://www.hancomac.com/), TA & Developer (2021 - )
 
-VLAB, club @ KAIST, vice chairman (2022 - )
+[VLAB](https://vlab-kaist.github.io), club @ KAIST, vice chairman (2022 - )
 
 [Incheon Academy of Science & Arts](http://iasa.icehs.kr/), student (2019 - 2021)
 
 NULL, club @ IASA, vice chairman(2019 - 2020)
 
 #### 🏆 What are achievements I got?
+
+[ICPC 2022](https://icpc.global) Seoul Regional, 40th
+
+[ICPC 2022](https://icpc.global) Qualification Round, 16th
 
 [UCPC 2022](https://ucpc.me) Qualification Round, 38th
 
