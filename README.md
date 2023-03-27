@@ -53,7 +53,7 @@ NULL, club @ IASA, vice chairman(2019 - 2020)
 
 #### 📨 Want to contact me?
 
-studioseorii@gmail.com 
+me@seorii.page
 
 #### ℹ️ More information?
 
