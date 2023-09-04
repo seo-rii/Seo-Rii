@@ -14,11 +14,13 @@ I'm Seohyun Lee, a student like to make program!
 
 School of Computing, [Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
 
-[여기우리 Inc.](https://herewe.space), Developer (2022 - )
+[여기우리 Inc.](https://herewe.space), Developer (2022 - 2023)
 
 [HancomEducation](https://www.hancomac.com/), TA & Developer (2021 - )
 
-[VLAB](https://vlab-kaist.github.io), club @ KAIST, vice chairman (2022 - )
+[GDSC](https://gdsc-kaist.github.io), club @ KAIST, Fullstack team Head (2023 - )
+
+[VLAB](https://vlab-kaist.github.io), club @ KAIST, vice chairman (2022 - 2023)
 
 [Incheon Academy of Science & Arts](http://iasa.icehs.kr/), student (2019 - 2021)
 
