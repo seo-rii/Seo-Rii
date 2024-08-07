@@ -4,9 +4,9 @@ I'm Seohyun Lee, a student like to make program!
 
 #### 💻 What I made?
 
-[Jungol](http://www.jungol.co.kr), Online Judge System @ [HancomAC](https://github.com/HancomAC)
+[jungol](http://jungol.co.kr), Online Judge System @ [HancomAC](https://github.com/HancomAC)
 
-[HANA](https://github.com/HancomAC/HANA), Judgement system for Jungol (is in production on Jungol!)
+[codepass](http://codepass.co.kr), B2B Online Judge System for DS@Samsung Electronics, Samsung Display, ...
 
 [electron-acrylic-window](https://github.com/Seo-Rii/electron-acrylic-window), module for vibrancy support on electron framework
 
@@ -16,11 +16,11 @@ School of Computing, [Korea Advanced Institute of Science and Technology](https:
 
 [HancomEducation](https://www.hancomac.com/), TA & Developer (2021 - )
 
-[GDSC](https://gdsc-kaist.github.io), club @ KAIST, Fullstack team Head (2023 - )
+[GDSC](https://gdsc-kaist.github.io), club @ KAIST, Fullstack team Head (2023 - 2024)
 
 [여기우리 Inc.](https://herewe.space), Developer (2022 - 2023)
 
-[VLAB](https://vlab-kaist.github.io), club @ KAIST, vice chairman (2022 - 2023)
+[VLAB](https://vlab-kaist.github.io), club @ KAIST, president (2023 - 2024)
 
 [Incheon Academy of Science & Arts](http://iasa.icehs.kr/), student (2019 - 2021)
 
