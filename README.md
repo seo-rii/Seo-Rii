@@ -14,6 +14,8 @@ I'm Seohyun Lee, a student like to make program!
 
 School of Computing, [Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
 
+[Ringle](https://ringleplus.com), Developer Intern (2024)
+
 [HancomEducation](https://www.hancomac.com/), TA & Developer (2021 - )
 
 [GDSC](https://gdsc-kaist.github.io), club @ KAIST, Fullstack team Head (2023 - 2024)
