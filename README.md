@@ -2,6 +2,8 @@
 
 I'm Seohyun Lee, a student like to make program!
 
+[You can visit my personal website here.](https://seorii.page)
+
 #### 💻 What I made?
 
 [jungol](http://jungol.co.kr), Online Judge System @ [HancomAC](https://github.com/HancomAC)
@@ -14,19 +16,19 @@ I'm Seohyun Lee, a student like to make program!
 
 School of Computing, [Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
 
-[Ringle](https://ringleplus.com), Developer Intern (2024)
+[Ringle](https://ringleplus.com), ML Developer Intern (2024.07 - )
 
-[HancomEducation](https://www.hancomac.com/), TA & Developer (2021 - )
+[HancomEducation](https://www.hancomac.com/), TA & Developer (2021.12 - )
 
-[GDSC](https://gdsc-kaist.github.io), club @ KAIST, Fullstack team Head (2023 - 2024)
+[GDSC](https://gdsc-kaist.github.io), club @ KAIST, Fullstack team Head (2023.09 - 2024.02)
 
-[여기우리 Inc.](https://herewe.space), Developer (2022 - 2023)
+[여기우리 Inc.](https://herewe.space), Developer (2022.12 - 2023.08)
 
-[VLAB](https://vlab-kaist.github.io), club @ KAIST, president (2023 - 2024)
+[VLAB](https://vlab-kaist.github.io), club @ KAIST, president (2023.03 - )
 
-[Incheon Academy of Science & Arts](http://iasa.icehs.kr/), student (2019 - 2021)
+[Incheon Academy of Science & Arts](http://iasa.icehs.kr/), student (2019.03 - 2021.02)
 
-NULL, club @ IASA, vice chairman(2019 - 2020)
+NULL, club @ IASA, vice chairman(2019.03 - 2020.02)
 
 #### 🏆 What are achievements I got?
 
