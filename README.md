@@ -16,7 +16,7 @@ I'm Seohyun Lee, a student like to make program!
 
 School of Computing, [Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
 
-[Ringle](https://ringleplus.com), ML Developer Intern (2024.07 - )
+[Ringle](https://ringleplus.com), ML Developer Intern (2024.07 - 2024.11)
 
 [HancomEducation](https://www.hancomac.com/), TA & Developer (2021.12 - )
 
