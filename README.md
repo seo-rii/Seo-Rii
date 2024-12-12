@@ -24,7 +24,7 @@ School of Computing, [Korea Advanced Institute of Science and Technology](https:
 
 [여기우리 Inc.](https://herewe.space), Developer (2022.12 - 2023.08)
 
-[VLAB](https://vlab-kaist.github.io), club @ KAIST, president (2023.03 - )
+[VLAB](https://vlab-kaist.github.io), club @ KAIST, president (2023.09 - 2024.05)
 
 [Incheon Academy of Science & Arts](http://iasa.icehs.kr/), student (2019.03 - 2021.02)
 
