@@ -10,11 +10,13 @@ I'm Seohyun Lee, a student like to make program!
 
 [codepass](http://codepass.co.kr), B2B Online Judge System for DS@Samsung Electronics, Samsung Display, ...
 
+[TTL](http://ttl.seorii.page), Online Timetable writter for KAISTians
+
 [electron-acrylic-window](https://github.com/Seo-Rii/electron-acrylic-window), module for vibrancy support on electron framework
 
 #### 📍 Where I am / was?
 
-School of Computing, [Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), undergraduate student (2022 - )
+[Korea Advanced Institute of Science and Technology](https://kaist.ac.kr/), School of Computing, undergraduate (2022 - )
 
 [Ringle](https://ringleplus.com), ML Developer Intern (2024.07 - 2024.11)
 
