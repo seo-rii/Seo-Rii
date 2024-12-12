@@ -32,6 +32,8 @@ NULL, club @ IASA, vice chairman(2019.03 - 2020.02)
 
 #### 🏆 What are achievements I got?
 
+[ICPC 2024](https://icpc.global) Seoul Regional, 64th
+
 [ICPC 2022](https://icpc.global) Seoul Regional, 40th
 
 [ICPC 2022](https://icpc.global) Qualification Round, 16th
